@@ -7,3 +7,34 @@ body {
     align-items: center;
     margin-top: 10%;
 }
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+    /* width: 25%; */
+    /* padding-left: 40%; */
+    flex: 1;
+}
+input {
+    padding: 10px;
+    width: 20%;
+    display: flex;
+    border: 0.5px solid black;
+    border-radius: 15px;
+}
+input:hover {
+    border: 2px solid black;
+}
+
+
+input {
+    padding: 10px;
+    width: 20%;
+    display: flex;
+    border: 0.5px solid black;
+    border-radius: 15px;
+}
+input:hover {
+    border: 2px solid black;
+}
